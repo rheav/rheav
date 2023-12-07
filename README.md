@@ -34,8 +34,8 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 
 I'm currently working as a Technical Account Manager here in Brazil, where my journey involves both building technical solutions and learning. Those are my priorities right now:
 
-- Doing the Rocketseat React Ignire journey.
-- Working on ambientChill, a small front-end personal project.
+- Studying the Rocketseat Ignite React journey.
+- Working on ambientChill, a small front-end personal project using React.
 - Trying to complete Red Hot Chilli Peppers' Throw Away Your Television outro that John rocks in Slane Castle, 2003 - probably the toughest of this list.
 
 ## 📊 Stats
