@@ -32,7 +32,7 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a Technical Account Manager here in Brazil, where my journey involves both building technical solutions and learning. I'm currently focused on:
+I'm currently working as a Technical Account Manager here in Brazil, where my journey involves both building technical solutions and learning. Those are my priorities right now:
 
 - Doing the Rocketseat React Ignire journey.
 - Working on ambientChill, a small front-end personal project.
