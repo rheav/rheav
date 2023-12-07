@@ -1,4 +1,4 @@
-### Howdy! I'm Victor
+## Howdy! I'm Victor
 
 **`Digital Artisan (Developer/Creator)`**
 
@@ -12,7 +12,7 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -25,13 +25,20 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!--<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />-->          
 <!--<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />-->
-          
 <br />
-<br />
+<br />     
 
-#
 
-### 📊 Stats
+
+## 🔭 Current Endeavors 
+
+I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
+
+- I'm engaged in exciting fullstack projects.
+- I'm exploring Python to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
+
+## 📊 Stats
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheav&show_icons=true&theme=default)
 
