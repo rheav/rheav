@@ -32,11 +32,11 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a fullstack developer in Germany, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently working as a Technical Account Manager here in Brazil, where my journey involves both building technical solutions and learning. I'm currently focused on:
 
-- I'm engaged in exciting fullstack projects.
-- I'm exploring Python to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+- Doing the Rocketseat React Ignire journey.
+- Working on ambientChill, a small front-end personal project.
+- Trying to complete Red Hot Chilli Peppers' Throw Away Your Television outro that John rocks in Slane Castle, 2003 - probably the toughest of this list.
 
 ## 📊 Stats
 
