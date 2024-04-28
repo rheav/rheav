@@ -6,7 +6,7 @@
 
 I'm an indie (and aspiring) front-end developer working in tech and learning everything by myself (and with the help of others, let's be real). 
 
-Currently working as a Professional Services Engineer, and studying and practicing front-end (with some back-end, as well) development consistently.
+Currently working as a Professional Services Engineer at Nuvemshop, and studying and practicing front-end (with some back-end, as well) development consistently.
 
 Creating stuff is something I love. Eventually, I create some useful stuff like [vtexSnitch](https://chromewebstore.google.com/detail/vtexsnitch/ppkpkhgopkfhngdnkkdlnndfnalekjpd "vtexSnitch"), an extension for Chromium browsers that offers detailed information about VTEX stores, which is used by roughly **10% of VTEX team globally**.
 
