@@ -32,7 +32,7 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a Technical Account Manager here in Brazil, where my journey involves both building technical solutions and learning. Those are my priorities right now:
+I'm currently working as a Professional Services Engineer here in Brazil, where my journey involves both building technical solutions and learning. Those are my priorities right now:
 
 - Revisiting some JS fundamentals.
 - Working on ambientChill, a small front-end personal project using React.
@@ -56,9 +56,9 @@ My first completed project was a website in which I created the planets of the s
 
 But I was very happy and saw that "creating things" was something valuable to me.
 
-So I started learning about HTML, CSS and JS, and went to work for a software house that developed e-commerces in Magento - but I went to work on the sales team.
+So I started learning about HTML, CSS and JS, and went to work for a software house that developed e-commerces in Magento - but I went to work on the sales team - and the sales team was only me.
 
-I always kept studying, and after I started working at VTEX I had to improve myself to keep up with the pace of work. I focused more on JavaScript, APIs (both REST and GraphQL), and more recently on React.js and Node.js.
+I always kept studying, and after I started working at VTEX I had to improve myself to keep up with the pace of work. I focused more on JavaScript, APIs (both REST and GraphQL), and more recently on React.js and Node.js. Now working at Nuvemshop I need to think more holistic in how the solution will work, which makes me study more about back-end, database set-ups and performance an reliability of proposed solutions.
 
 Nowadays, I study every day and do the iCodeThis.com and Codante.io challenges frequently to hone my skills, especially when it comes to creating beautiful interfaces.
 
