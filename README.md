@@ -1,14 +1,14 @@
 ## Howdy! I'm Victor
 
-**`Digital Artisan (Developer/Creator)`**
+**`Digital Artisan (Creator)`**
 
 
 
-I'm an indie (and aspiring) front-end developer working in tech and learning everything by myself (and with the help of others, let's be real). 
+I'm a guy who likes to create stuff. Currently working in tech and learning everything by myself (and with the help of others, let's be real). 
 
-Currently working as a Professional Services Engineer at Nuvemshop, and studying and practicing front-end (with some back-end, as well) development consistently.
+Today I work as a Professional Services Engineer at Nuvemshop, and I'm studying and practicing front-end (with some back-end, as well) development consistently.
 
-Creating stuff is something I love. Eventually, I create some useful stuff like [vtexSnitch](https://chromewebstore.google.com/detail/vtexsnitch/ppkpkhgopkfhngdnkkdlnndfnalekjpd "vtexSnitch"), an extension for Chromium browsers that offers detailed information about VTEX stores, which is used by roughly **10% of VTEX team globally**.
+Creating stuff is something I love. Eventually, I create some useful stuff like [vtexSnitch](https://chromewebstore.google.com/detail/vtexsnitch/ppkpkhgopkfhngdnkkdlnndfnalekjpd "vtexSnitch"), an extension for Chromium browsers that offers detailed information about VTEX stores, which is used by roughly **30% of VTEX team globally**.
 
 ---
 
@@ -35,7 +35,7 @@ Creating stuff is something I love. Eventually, I create some useful stuff like 
 I'm currently working as a Professional Services Engineer here in Brazil, where my journey involves both building technical solutions and learning. Those are my priorities right now:
 
 - Revisiting some JS fundamentals.
-- Working on ambientChill, a small front-end personal project using React.
+- Working on building responsive interfaces using Next.js consuming content from MDX files.
 - Trying to complete Red Hot Chilli Peppers' Throw Away Your Television outro that John rocks in Slane Castle, 2003 - probably the toughest of this list.
 
 ## 📊 Stats
