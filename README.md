@@ -8,7 +8,7 @@ I'm a guy who likes to create stuff. Currently working in tech and learning ever
 
 Today I work as a Professional Services Engineer at Nuvemshop, and I'm studying and practicing front-end (with some back-end, as well) development consistently.
 
-Creating stuff is something I love. Eventually, I create some useful stuff like [vtexSnitch](https://chromewebstore.google.com/detail/vtexsnitch/ppkpkhgopkfhngdnkkdlnndfnalekjpd "vtexSnitch"), an extension for Chromium browsers that offers detailed information about VTEX stores, which is used by roughly **30% of VTEX team globally**.
+Creating stuff is something I love. Eventually, I create some useful stuff like [vtexSnitch](https://chromewebstore.google.com/detail/vtexsnitch/ppkpkhgopkfhngdnkkdlnndfnalekjpd "vtexSnitch"), an extension for Chromium browsers that offers detailed information about VTEX stores, which is used by roughly **49% of VTEX team globally**.
 
 ---
 
